@@ -17,6 +17,8 @@
 
 
 
+//Fun
+
 unsigned int lab3_thread_graph_id()
 {
 	return 8;
